@@ -34,3 +34,11 @@ TRACE: Method ini digunakan untuk menguji konektivitas dengan server dan memerik
 ==================================================================================================================================================
 
 CONNECT: Method ini digunakan untuk meminta server untuk membangun koneksi TCP ke tujuan yang ditentukan oleh permintaan, biasanya digunakan untuk membuka saluran komunikasi melalui proxy.
+
+
+
+
+
+Repository:
+https://github.com/LunaShifter/katalon-taskapi-AsepMahmudin.git
+
